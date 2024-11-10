@@ -1,0 +1,4 @@
+C:/Users/HP/CLionProjects/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Exercise1.dir
+C:/Users/HP/CLionProjects/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Exercise2.dir
+C:/Users/HP/CLionProjects/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/rebuild_cache.dir

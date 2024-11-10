@@ -1,0 +1,14 @@
+# ninja log v5
+6	523	7529520982245618	CMakeFiles/StrukturnoProgramiranje.dir/Exercise1.cpp.obj	2ae5f81827ae8189
+0	161	7529538937650085	build.ninja	97378e1c5d9799f4
+2	269	7529529730663815	CMakeFiles/StrukturnoProgramiranje.dir/Exercise2.cpp.obj	c0687564a055784f
+323	415	7529536503683788	Exercise2.exe	beec2bc4aa1ccf4a
+2	65	7529529842378903	StrukturnoProgramiranje.exe	fc197a103254ed7f
+1	322	7529536502794562	CMakeFiles/Exercise2.dir/Exercise2.cpp.obj	1a61175da2cd83ae
+0	300	7529538683999843	CMakeFiles/Exercise1.dir/Exercise1.cpp.obj	8ff018252278f81b
+301	391	7529538684868722	Exercise1.exe	d10edb14ed5dc197
+1	205	7529538937650085	build.ninja	97378e1c5d9799f4
+1	276	7529538941670927	CMakeFiles/Exercise1.dir/Exercises/Exercise1.cpp.obj	780ebe6dfd1a9d14
+276	362	7529538942481207	Exercise1.exe	c3e877e2e774ccde
+1	360	7529539038747979	CMakeFiles/Exercise2.dir/Exercises/Exercise2.cpp.obj	23b77631a33f82d3
+361	434	7529539039441467	Exercise2.exe	3965fe6fa34e4115
